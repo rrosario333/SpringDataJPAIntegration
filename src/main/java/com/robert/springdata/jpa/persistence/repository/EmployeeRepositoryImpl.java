@@ -11,7 +11,7 @@ import javax.persistence.Query;
 import java.util.List;
 
 /**
- * Created by gkatzioura on 6/3/16.
+ * Created by robert.
  */
 @Repository
 @Transactional(readOnly = true)

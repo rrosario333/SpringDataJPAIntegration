@@ -3,7 +3,7 @@ package com.robert.springdata.jpa.persistence.entity;
 import javax.persistence.*;
 
 /**
- * Created by gkatzioura on 6/2/16.
+ * Created by robert.
  */
 @Entity
 @Table(name = "employee", schema="spring_data_jpa_example")

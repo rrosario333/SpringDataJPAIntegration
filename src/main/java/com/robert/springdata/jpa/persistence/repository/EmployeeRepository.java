@@ -9,7 +9,7 @@ import com.robert.springdata.jpa.persistence.entity.Employee;
 import java.util.List;
 
 /**
- * Created by gkatzioura on 6/2/16.
+ * Created by robert.
  */
 @Repository
 public interface EmployeeRepository extends JpaRepository<Employee,Long>, EmployeeRepositoryCustom {
